@@ -11,7 +11,8 @@ This project makes use of Avalanche HyperSDK to build a custom subnet designed f
 - [Running Your Subnet](#running-your-subnet)
 - [Interacting with Your Subnet](#interacting-with-your-subnet)
 - [Closing Your Subnet](#closing-your-subnet)
-- [Additional Notes](#additional-notes)
+- [License](#license)
+- [Author](#author)
 
 ## Description
 Description
@@ -157,3 +158,8 @@ To stop your local Avalanche network, run:
 ```bash
 killall avalanche-network-runner
 ```
+### License 
+MIT License
+
+### Author 
+DINKY KHURANA
