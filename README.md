@@ -40,18 +40,12 @@ consts.ActionRegistry.Register(&actions.MintAsset{}, actions.UnmarshalMintAsset,
 ```
 
 This code is added in registry/registry.go
-
-Steps of Execution
-This project is execute on WSl on windows and GO installed inside wsl.
-
-1.run git clone https://github.com/Ms-10182/avax-advance-mod-2.git
-2.run cd bhagya
-3.Github is not allowing me to upload the files due to large no of files so I added the zip file.
-4.Extract the Avalanche hyperSDK project
-5.cd '.\Avalanche hyperSDK project\' 
-6.In terminal run command MODE="run-single" ./scripts/run.sh and this will start our machine with 1 subnet and for 2 subnet run ./scripts/run.sh. after this command output will look like.
-
-
+For creating the file in vs RUN
+1. cd ~
+2. mkdir bhagya
+3. cd bhagya
+4. git clone https://github.com/Metacrafters/tokenvm
+5. cd tokenvm
 ## Installation
 To run this project, follow these steps:
 
